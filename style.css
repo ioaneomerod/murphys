@@ -1,0 +1,43 @@
+.ui.borderless.topmenu.container.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.bar.background {
+  background-image: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
+  background-size: cover;
+  height: 500px;
+}
+
+.footer.background {
+  background-image: url("http://murphyshawaii.com/media/2014/04/Lunch-IMG_5529.jpg");
+  background-size: cover;
+  height: 550px;
+}
+
+#intro-paragraph {
+  color: white;
+  text-align: center;
+}
+
+.ui.middle.container {
+  padding: 50px;
+}
+
+h2 {
+  font-weight: 500;
+}
+
+.ui.borderless.bottommenu.menu {
+  box-shadow: none;
+  border: none;
+  background-color: black;
+}
+
+.facebook.f.icon {
+  color: white;
+}
+
+.footer.paragraph.item {
+  color: white;
+}
